@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-f9a94cf2d5.beils.cn/sitemap.xml

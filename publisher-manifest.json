@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "c70effb05dd3e9e5e86e1153",
+  "owner": "pupnjnqu",
+  "repo": "page-3335e64eb5c9a0eda457a93b",
+  "title": "八八加速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3335e64eb5c9a0eda457a93b",
+      "a": "八八加速",
+      "b": "",
+      "entity": "八八加速",
+      "brand": "八八加速",
+      "separator": "",
+      "path": "index.html",
+      "hash": "cb072173b9a39d65c0b10384ff399e91491f1952dad6b1e40321c63169a1ff5c",
+      "content": {
+        "keyword1": "八八加速",
+        "keyword2": "",
+        "primary_entity": "八八加速",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "八八加速是一份写给自己的说明书：三档订阅、流量与设备上限逐条摊开，客户端与使用顺序如实列出，常见问题按编号回答，读完了再决定。",
+          "AI_DESCRIPTION": "八八加速是一份写给自己的说明书：三档订阅、流量与设备上限逐条摊开，客户端与使用顺序如实列出，常见问题按编号回答，读完了再决定。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n  :root{--cream:#f4ede1;--cream-deep:#ebe0cf;--brick:#b04a32;--brick-dark:#8a3a26;--ink:#2b2620;--ink-soft:#5b5349;--line:#d6c8b3}\n  *{box-sizing:border-box}\n  html{}\n  body{margin:0;background:var(--cream);color:var(--ink);font-family:\"Songti SC\",\"Noto Serif CJK SC\",Georgia,\"Times New Roman\",serif;line-height:1.75;font-size:16px;padding-bottom:76px}\n  a{color:var(--brick-dark)}\n  h1,h2,h3{line-height:1.3;margin:0}\n  .wrap{width:min(1040px,92vw);margin:0 auto}\n  .band{border-bottom:1px solid var(--line)}\n  .eyebrow{font-size:.78rem;letter-spacing:.28em;text-transform:uppercase;color:var(--brick);margin:0 0 .6em;font-family:ui-sans-serif,system-ui,\"Helvetica Neue\",sans-serif}\n  /* hero */\n  .hero{padding:0}\n  .hero-top{background:var(--cream);padding:clamp(2.4rem,7vw,4.6rem) 0 clamp(2rem,5vw,3rem)}\n  .hero-top .wrap{display:grid;gap:1.4rem}\n  .hero h1{font-size:clamp(2.6rem,9vw,5.4rem);letter-spacing:.06em;font-weight:700;margin:0}\n  .hero h1 span{color:var(--brick)}\n  .hero-lead{max-width:34rem;color:var(--ink-soft);font-size:clamp(1rem,2.2vw,1.12rem);margin:0}\n  .hero-strip{background:var(--brick);color:#fdf7ec;padding:1.1rem 0}\n  .hero-strip .wrap{display:flex;flex-wrap:wrap;gap:.8rem 2rem;align-items:baseline;justify-content:space-between}\n  .hero-strip p{margin:0;font-size:.95rem}\n  .hero-strip strong{font-size:1.15rem;letter-spacing:.04em}\n  .hero-mid{background:var(--cream-deep);padding:clamp(1.6rem,4vw,2.4rem) 0}\n  .hero-mid .wrap{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:1.2rem 2rem}\n  .stat{border-left:3px solid var(--brick);padding-left:.9rem}\n  .stat b{display:block;font-size:1.5rem;font-family:ui-sans-serif,system-ui,sans-serif}\n  .stat small{color:var(--ink-soft);font-size:.82rem;letter-spacing:.06em}\n  /* sections */\n  section{padding:clamp(2.6rem,6vw,4.4rem) 0}\n  .sec-head{display:grid;gap:.5rem;margin-bottom:2rem;max-width:40rem}\n  .sec-head h2{font-size:clamp(1.5rem,4vw,2.1rem)}\n  .sec-head p{margin:0;color:var(--ink-soft)}\n  /* plans */\n  .plan-list{display:grid;gap:1.1rem}\n  .plan{background:#fbf6ec;border:1px solid var(--line);border-left:8px solid var(--brick);padding:1.3rem clamp(1rem,3vw,1.8rem)}\n  .plan.featured{border-left-color:var(--ink);background:#fff9ee}\n  .plan-top{display:flex;flex-wrap:wrap;gap:.4rem 1.2rem;align-items:baseline;justify-content:space-between;border-bottom:1px dashed var(--line);padding-bottom:.8rem;margin-bottom:.8rem}\n  .plan-name{font-size:1.24rem;font-weight:700;letter-spacing:.04em}\n  .plan-name em{font-style:normal;font-size:.7rem;letter-spacing:.16em;background:var(--ink);color:var(--cream);padding:.15rem .5rem;margin-left:.6rem;vertical-align:.18em;font-family:ui-sans-serif,sans-serif}\n  .price{font-family:ui-sans-serif,system-ui,sans-serif;font-size:1.05rem;color:var(--brick-dark)}\n  .price b{font-size:1.6rem;margin-right:.15rem}\n  .price small{display:block;color:var(--ink-soft);font-size:.78rem;font-family:inherit}\n  .plan ul{margin:0;padding-left:1.15rem;color:var(--ink-soft)}\n  .plan li{margin:.32rem 0}\n  .plan li::marker{color:var(--brick)}\n  /* use / clients */\n  .two-col{display:grid;gap:2rem;grid-template-columns:1fr}\n  @media(min-width:820px){.two-col{grid-template-columns:1.05fr .95fr;gap:3rem}}\n  .steps{counter-reset:s;list-style:none;margin:0;padding:0;display:grid;gap:1.1rem}\n  .steps li{counter-increment:s;border-left:4px solid var(--brick);padding:.1rem 0 .1rem 1.1rem;position:relative}\n  .steps li::before{content:counter(s,decimal-leading-zero);display:block;font-family:ui-sans-serif,system-ui,sans-serif;font-size:.78rem;letter-spacing:.2em;color:var(--brick);margin-bottom:.15rem}\n  .steps h3{font-size:1.05rem;margin-bottom:.2rem}\n  .steps p{margin:0;color:var(--ink-soft);font-size:.95rem}\n  .client-box{background:#fbf6ec;border:1px solid var(--line);border-top:6px solid var(--brick);padding:1.4rem}\n  .client-box h3{font-size:1.1rem;margin-bottom:.6rem}\n  .client-box p{margin:0 0 .8rem;color:var(--ink-soft);font-size:.95rem}\n  .client-box dl{margin:0;display:grid;gap:.7rem}\n  .client-box dt{font-weight:700;font-size:.95rem}\n  .client-box dd{margin:.1rem 0 0;color:var(--ink-soft);font-size:.92rem}\n  /* faq */\n  .faq-list{counter-reset:q;list-style:none;margin:0;padding:0;display:grid;gap:1.4rem}\n  .faq-list li{counter-increment:q;display:grid;grid-template-columns:3.2rem 1fr;gap:.4rem 1rem;border-top:1px solid var(--line);padding-top:1.1rem}\n  .faq-list li::before{content:counter(q,decimal-leading-zero);font-family:ui-sans-serif,system-ui,sans-serif;font-size:1.5rem;color:var(--brick);line-height:1}\n  .faq-list h3{font-size:1.02rem;margin:0 0 .3rem;grid-column:2}\n  .faq-list p{margin:0;color:var(--ink-soft);font-size:.95rem;grid-column:2}\n  /* footer */\n  .site-foot{background:var(--ink);color:#e6dccb;padding:2.4rem 0 3rem;font-size:.9rem}\n  .site-foot .wrap{display:grid;gap:1rem}\n  .site-foot h2{font-size:1.05rem;color:#f4ede1}\n  .site-foot p{margin:0;color:#bdb2a1}\n  .site-foot a{color:#f0c3ae;text-decoration:none;border-bottom:1px solid #7a5b4d}\n  /* fixed nav */\n  .dock{position:fixed;left:0;right:0;bottom:0;z-index:20;background:var(--ink);color:#e6dccb;border-top:3px solid var(--brick)}\n  .dock .wrap{display:flex;flex-wrap:wrap;gap:.2rem .1rem;align-items:center;justify-content:space-between;padding:.55rem 0}\n  .dock a{color:#e6dccb;text-decoration:none;font-size:.82rem;letter-spacing:.08em;padding:.35rem .55rem;flex:1 1 auto;text-align:center;white-space:nowrap;font-family:ui-sans-serif,system-ui,sans-serif}\n  .dock a:first-child{flex:0 0 auto;text-align:left;color:#f0c3ae;letter-spacing:.14em}\n  .dock a:hover{color:#fff;border-bottom:2px solid var(--brick)}\n  @media(max-width:560px){.dock a{font-size:.74rem;padding:.35rem .3rem}}\n</style><main>\n\n  <header class=\"hero\">\n    <div class=\"hero-top\">\n      <div class=\"wrap\">\n        <p class=\"eyebrow\">订阅说明书 · 2031</p>\n        <h1>八八<span>加速</span></h1>\n        <p class=\"hero-lead\">把三档订阅的流量、设备数、线路描述逐条摆在桌面上，再把客户端的安装与使用顺序写清楚。你看完这一页，就能自己判断哪一档该留下来。</p>\n      </div>\n    </div>\n    <div class=\"hero-strip\">\n      <div class=\"wrap\">\n        <p><strong>三档订阅 · 纵向逐行展开</strong> 基础、旗舰、团队</p>\n        <p>流量上限、同时在线设备、线路类型一次写全，不藏条件。</p>\n      </div>\n    </div>\n    <div class=\"hero-mid\">\n      <div class=\"wrap\">\n        <div class=\"stat\"><b>3</b><small>档订阅</small></div>\n        <div class=\"stat\"><b>100GB / 300GB / 1000GB</b><small>每月流量</small></div>\n        <div class=\"stat\"><b>3 / 5 / 20 台</b><small>同时在线设备</small></div>\n        <div class=\"stat\"><b>年付</b><small>十个月价换十二个月</small></div>\n      </div>\n    </div>\n  </header>\n\n  <section id=\"plans\" class=\"band\">\n    <div class=\"wrap\">\n      <div class=\"sec-head\">\n        <p class=\"eyebrow\">订阅与价格</p>\n        <h2>三档订阅，逐行展开</h2>\n        <p>价格按月度计，年付按十个月折算。每一档的流量与设备上限写在条款里，选之前先对照自己一个月真正用掉多少。</p>\n      </div>\n\n      <div class=\"plan-list\">\n\n        <article class=\"plan\">\n          <div class=\"plan-top\">\n            <h3 class=\"plan-name\">基础版</h3>\n            <p class=\"price\"><b>¥15</b>/月<small>年付 ¥150/年</small></p>\n          </div>\n          <ul>\n            <li>每月 100GB 流量</li>\n            <li>最多 3 台设备同时在线</li>\n            <li>基础流媒体解锁</li>\n            <li>普通线路节点池</li>\n          </ul>\n        </article>\n\n        <article class=\"plan featured\">\n          <div class=\"plan-top\">\n            <h3 class=\"plan-name\">旗舰版<em>多数人停留的一档</em></h3>\n            <p class=\"price\"><b>¥35</b>/月<small>年付 ¥350/年</small></p>\n          </div>\n          <ul>\n            <li>每月 300GB 流量</li>\n            <li>最多 5 台设备同时在线</li>\n            <li>全节点原生流媒体解锁</li>\n            <li>IPLC 专线游戏加速优化</li>\n            <li>7×24 优先工单支持</li>\n          </ul>\n        </article>\n\n        <article class=\"plan\">\n          <div class=\"plan-top\">\n            <h3 class=\"plan-name\">团队版</h3>\n            <p class=\"price\"><b>¥85</b>/月<small>年付 ¥850/年</small></p>\n          </div>\n          <ul>\n            <li>每月 1000GB 流量</li>\n            <li>最多 20 台设备同时在线</li>\n            <li>VIP 专属高带宽节点</li>\n            <li>支持企业定制路由</li>\n            <li>专属客户经理服务</li>\n          </ul>\n        </article>\n\n      </div>\n    </div>\n  </section>\n\n  <section id=\"use\">\n    <div class=\"wrap two-col\">\n      <div>\n        <div class=\"sec-head\">\n          <p class=\"eyebrow\">使用说明</p>\n          <h2>从订阅到连上，按这四步走</h2>\n          <p>流程不难，难的是别在第三步跳过去。顺序对了，后面的问题会少一大半。</p>\n        </div>\n        <ol class=\"steps\">\n          <li>\n            <h3>先确认自己要多少流量</h3>\n            <p>回看你上一个月的用量记录。百GB 级、三百GB 级和千GB 级是三种完全不同的使用习惯，先别按价格选。</p>\n          </li>\n          <li>\n            <h3>再数一遍同时在线的设备</h3>\n            <p>手机、平板、笔记本、备用机、家里的电视盒子都算。三档上限分别是 3、5、20 台，超出上限时后连入的设备会被挤出。</p>\n          </li>\n          <li>\n            <h3>按平台的说明装客户端</h3>\n            <p>各平台的具体安装方式见下一栏。订阅信息只从你自己账户的页面获取，不通过他人转发的截图或链接填写。</p>\n          </li>\n          <li>\n            <h3>连接后先做一次日常验证</h3>\n            <p>打开平时最常用的两三个服务，确认加载速度和此前一致。若明显不对，先切换节点，再提交工单描述现象与时间。</p>\n          </li>\n        </ol>\n      </div>\n\n      <div class=\"client-box\" id=\"clients\">\n        <h3>客户端说明</h3>\n        <p>此处不提供下载地址与兼容性承诺，安装包与配置请以你账户页面内的说明为准。以下只写各平台在配置时需要注意的点。</p>\n        <dl>\n          <dt>桌面端（Windows / macOS）</dt>\n          <dd>首次配置时留意系统代理开关是否生效，部分网络环境下需要重启客户端才能让规则生效。</dd>\n          <dt>移动端（iOS / Android）</dt>\n          <dd>安装后按系统提示授权本地网络配置，切换网络（例如从 Wi-Fi 到蜂窝）后建议重新加载一次订阅。</dd>\n          <dt>路由器与共享设备</dt>\n          <dd>多设备共用一台路由器时，请在设备侧统计在线终端数，避免无意间超出订阅的同时在线上限。</dd>\n          <dt>更新订阅信息</dt>\n          <dd>套餐变动或线路调整后，回到账户页更新订阅链接，旧链接不保证继续可用。</dd>\n        </dl>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\" class=\"band\">\n    <div class=\"wrap\">\n      <div class=\"sec-head\">\n        <p class=\"eyebrow\">常见问题</p>\n        <h2>八个问题，按编号回答</h2>\n        <p>这些是所有人在下单前最常问的。答案尽量短，因为长答案通常意味着有人在绕。</p>\n      </div>\n\n      <ol class=\"faq-list\">\n        <li>\n          <h3>年付比月付省多少？</h3>\n          <p>三档年付均为十个月的价：基础 ¥150、旗舰 ¥350、团队 ¥850。也就是付十个月，用十二个月。</p>\n        </li>\n        <li>\n          <h3>流量每月会累积到下个月吗？</h3>\n          <p>不会。每月的流量额度按自然月计算，当月未用完的部分不结转，请按自己的实际节奏选择档位。</p>\n        </li>\n        <li>\n          <h3>“同时在线设备”怎么算？</h3>\n          <p>指同一个时间点上保持连接的设备数量。同一台设备在不同时段切换使用不重复计数；三档上限分别为 3、5、20 台。</p>\n        </li>\n        <li>\n          <h3>旗舰版的 IPLC 专线是做什么的？</h3>\n          <p>它针对游戏等对延迟敏感的场景做了优化，属于旗舰版线路的一部分。具体可用线路以账户页当时展示的节点列表为准。</p>\n        </li>\n        <li>\n          <h3>团队版能开发票或签合同吗？</h3>\n          <p>团队版包含专属客户经理服务，相关商务事宜请通过客户经理沟通确认，本站不代为承诺具体条款。</p>\n        </li>\n        <li>\n          <h3>我可以中途换档位吗？</h3>\n          <p>可以按新档位重新订阅。换档后流量额度与设备上限随新档位重新计算，原档位剩余周期的处理方式请以账户页说明为准。</p>\n        </li>\n        <li>\n          <h3>为什么这里没有下载按钮？</h3>\n          <p>因为下载地址与版本会随时间变化，写死在页面上反而容易误导。请登录账户，在对应平台的说明中获取安装包。</p>\n        </li>\n        <li>\n          <h3>遇到连不上，第一步做什么？</h3>\n          <p>先在客户端里更换节点并重新加载订阅；仍不行的，带上出错时间、所用平台与节点名称提交工单，描述越具体处理越快。</p>\n        </li>\n      </ol>\n    </div>\n  </section>\n\n</main>\n\n<footer class=\"site-foot\" id=\"foot\">\n  <div class=\"wrap\">\n    <h2>八八加速</h2>\n    <p>本页只陈述三档订阅的价格、流量上限、设备上限与客户端使用方式。页面不构成对线路性能、可用性或地域覆盖的承诺，实际以账户页展示的信息为准。</p>\n    <p>套餐与价格如有调整，以订阅时的页面说明为最终依据。相关问题请回到<a href=\"#faq\">常见问题</a>，或查看<a href=\"#use\">使用说明</a>。</p>\n  </div>\n</footer>\n\n<nav class=\"dock\" aria-label=\"页面导航\">\n  <div class=\"wrap\">\n    <a href=\"#plans\">八八加速</a>\n    <a href=\"#plans\">订阅</a>\n    <a href=\"#use\">使用说明</a>\n    <a href=\"#clients\">客户端</a>\n    <a href=\"#faq\">常见问题</a>\n  </div>\n</nav>",
+          "hash": "765c81b24f74e601b4acbbbcf4d8d31264d5dba3d081123b386627d6bed1b213",
+          "seo": {
+            "title": "八八加速 · 米白砖红的分层说明书",
+            "keywords": "八八加速,订阅套餐,客户端说明,常见问题,流量方案",
+            "description": "八八加速是一份写给自己的说明书：三档订阅、流量与设备上限逐条摊开，客户端与使用顺序如实列出，常见问题按编号回答，读完了再决定。"
+          },
+          "provider": "grok",
+          "model": "deepseek-flash",
+          "design": {
+            "no": "2031",
+            "hero": "8 全宽色带分层堆叠",
+            "palette": "2 米白配砖红",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "beils.cn",
+    "host": "p-f9a94cf2d5.beils.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "cf7382d0b1fea904f8d93e74ada01d6d77750db9702c4c2fa8c467ba0d6cc294",
+    "sitemap.xml": "a95f60b57a7d3427773a32b6e177c44d29e44d4f9fc3855f94c812e22845da80",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "fa8a41caa91c08b68c4e38cef600242d61dfb09fe13d8211590e8ff41098b3d9",
+    "robots.txt": "18f08711911ee07fec6901e60b95423a09353d1abbca3a7900bc3301b4d5ec04",
+    "1e9f9c2bfbc5338e894d3f609de7e710.txt": "f41225346f2a0e171a68fa0be29886d64c6bb50e94858d8d40ddfeab4d5ac509"
+  },
+  "revision": "086aff5ea9988de468c9c18a47b276abf069c8bfa10fc9cb061291664140a6d7"
+}
